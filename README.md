@@ -1,2 +1,2 @@
-# html-portfolio
-This is my first html project✨
+# Basic Portfolio 
+This is my first html project
